@@ -1,5 +1,7 @@
      body {
 	      font-family: Verdana,Geneva,Arial;
+           margin: 0px;
+           padding:0px;
       }
      html {
      font-size: 12px;
