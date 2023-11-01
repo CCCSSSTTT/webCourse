@@ -1,0 +1,34 @@
+body {
+	font-size: small;
+	font-family: Verdana， Helvetica， Arial;
+	line-height: 1.9em;
+	font-style: italic;
+	color: #444444;
+	font-family: Georgia, "Times New Roman";
+}
+
+.guarantee {
+	background-color: #a7cece; /* 将标题设置为一种青绿色，使他和 logo 更相合 */
+}
+
+h1 {
+	font-size: 1.5em;
+}
+
+h2 {
+	font-size: 1.3em;
+}
+.guarantee {
+  background-image: url(images/background.gif);
+}
+.guarantee {
+  background-repeat: no-repeat;
+  background-position: top left;
+}
+.guarantee {
+  padding: 25px;
+  padding-left: 80px;
+}
+.guarantee {
+  margin-right: 250px;
+}
