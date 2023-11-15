@@ -75,3 +75,15 @@ a:hover {
   background: #f88396;
   color: #0d5353;
 }
+p.cname{
+color: blue;
+}
+p #iname{
+color: red;
+}
+p span{
+color: green;
+}
+.elixirs{
+float: right;
+}
