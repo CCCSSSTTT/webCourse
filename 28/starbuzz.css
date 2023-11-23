@@ -5,7 +5,7 @@ body {
   margin:           0px;
 }
 
-.header {
+.top{
   background-color: #675c47;
   margin:           10px;
   height:           108px;
@@ -25,7 +25,7 @@ body {
   /*margin:           0px 10px 10px 10px;*/
 }
 
-.footer {
+footer {
   background-color: #675c47;
   color:            #efe5d0;
   text-align:       center;
