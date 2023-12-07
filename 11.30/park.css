@@ -3,17 +3,28 @@ body {
 }
 
 h1 {
-  font-size:        120%;
-  font-family:      Georgia, "Times New Roman", Times, serif;
+  font-size:        200%;
+  font-family: 'Times New Roman', Times, serif;
   color:            #ffffff;
-}
-
-.box {
-	width: 180px;
-	height: 80px;
-  border-radius: 5%;
 }
 
 .footer-app-promo{
 align-content:center;
+right: 45%;
+}
+
+h2{
+font-size: 80%;
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+color: #ffffff;
+}
+
+h3{
+font-size: 80%;
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+color: #ffffff;
+}
+
+hr{
+color:#7a7878;
 }
