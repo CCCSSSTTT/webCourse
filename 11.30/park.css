@@ -11,9 +11,9 @@ h1 {
 }
 
 .footer-app-promo.png{
-    width: 270px;
+    width: 260px;
     aspect-ratio: auto 270 / 227;
-    height: 227px;
+    height: 207px;
 }
 
 h2{
@@ -30,16 +30,13 @@ h3{
   text-indent: 5%;
 }
 
-hr{
-  color:#525050;
-}
-
 .row{
   width: 270px;
   height: 227px;
   margin-right: 800px;
-  margin-top: -260px;
+  margin-top: -280px;
   margin-left: 1100px;
+  text-align:       center;
 }
 
 .box{
@@ -47,4 +44,12 @@ width: 80px;
 aspect-ratio: auto 132 / 44;
 height: 20px;
 margin-right: 800px;
+margin-top: -280px;
+margin-left: 1100px;
+}
+
+.Google{
+width: 80px;
+height: 20px;
+margin-right: 1000px;
 }
