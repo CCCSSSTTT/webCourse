@@ -10,13 +10,12 @@ h1 {
   text-align:       center;
 }
 
-
 .APP{
   position: relative;
   width: 80px;
   height: 20px;
   margin-right: 800px;
-  margin-top: -45px;
+  margin-top: -65px;
   margin-left:520px;
   border:50px;
   border-color: #ffffff;
@@ -87,3 +86,28 @@ h3{
   border-width: 1px;
 }
 
+a:link {
+  color:            #ffffff;
+  text-decoration:  none;
+}
+
+a:visited {
+  color:            #ffffff;
+  text-decoration:  none;
+}
+
+h4{
+  position:         relative;
+  font-size:        230%;
+  font-family:      'Times New Roman', Times, serif;
+  color:            #ffffff;
+  line-height:      20px;
+  text-align:       center;
+  margin-left:      300px;
+  margin-right:     450px;
+  margin-top:       20px;
+}
+
+hr {
+  color:#999;
+}
